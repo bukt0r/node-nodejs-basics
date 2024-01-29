@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+src/fs/files/fresh.txt
+src/fs/files_copy/
